@@ -60,8 +60,11 @@ npm: 6.14.13
 14. In terminal 1, command: npm run dev
 15. In terminal 2, command: npm run start
 16. In terminal 1, the following message will display
+
 server started on PORT 8000
+
 MongoDB connected
+
 17. In terminal 2, the front end UI will launch in the browser, if not open http://localhost:3000
 
 
